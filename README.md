@@ -1,5 +1,5 @@
 
-![flutter](./images/flutter.jpeg)
+![flutter](./flutter.jpeg)
 # Who use Flutter in Japan?
 --- 
 The list of companies or organization who use flutter in Japan
